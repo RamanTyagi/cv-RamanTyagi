@@ -1,0 +1,110 @@
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
+}
+.firstpg {
+  font-size: 1.2rem;
+  padding: 160px;
+  color: #def4f0;
+  font-family: "Sacramento", cursive;
+  text-align: center;
+  background-image: url("/image.jpg");
+  background-color: #cccccc;
+  height: 1000px;
+  background-position: center;
+  background-size: contain;
+  position: relative;
+}
+.name {
+  color: #def4f0;
+}
+h3 {
+  font-family: "Questrial", sans-serif;
+  font-size: 2.8rem;
+}
+.icon {
+  background-color: #a1e6e3;
+  width: 300px;
+  border-radius: 50px;
+  text-align: center;
+  display: inline-block;
+  margin: 100px;
+}
+.about {
+  text-align: center;
+  font-family: "Balsamiq Sans", cursive;
+  color: #30475e;
+}
+.aboutHeadings {
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+}
+.aboutpara {
+  font-family: "Caveat", cursive;
+  font-size: 1.5rem;
+  text-align: center;
+}
+#dp {
+  height: 500px;
+  width: 500px;
+  border-radius: 500px;
+}
+.intro {
+  text-align: center;
+  margin: 50px;
+}
+.who {
+  font-family: "Pacifico", cursive;
+}
+.Carousel {
+  text-align: center;
+}
+.paraaboutme {
+  font-family: "Permanent Marker", cursive;
+}
+.skill {
+  text-align: center;
+  width: 100px;
+}
+.input {
+  display: block;
+  position: relative;
+  left: 600px;
+}
+.contacts {
+  text-align: center;
+  background-image: url("/contact.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 800px;
+}
+.footer {
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+  background-color: #ececec;
+  padding: 50px;
+}
+.footerIcon {
+  padding: 50px;
+}
+/* nyaaaaaaaa*/
+.header {
+  color: #36a0ff;
+  font-size: 27px;
+  padding: 10px;
+}
+
+.bigicon {
+  font-size: 35px;
+  color: #36a0ff;
+}
+/*-------------------*/
